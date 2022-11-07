@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a Minecraft Bedrock developer who creates addons & resource packs!
+I also own a YouTube channel! _youtube.com/RedstoneChickenMC
 
 <!--
 **RedstoneChicken/RedstoneChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
